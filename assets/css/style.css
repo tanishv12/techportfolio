@@ -3337,7 +3337,7 @@ hr {
 
 /* line 127, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
 .header-sticky.sticky-bar {
-  background: #fff;
+  background: #000000;
 }
 
 /* line 133, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
@@ -4175,7 +4175,7 @@ hr {
 
 /* line 2, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-expertiese.scss */
 .our-services .single-services {
-  background: #c4c2c2;
+  background: #cfcccc;
   padding: 36px 46px 32px 54px;
   -webkit-transition: 0.4s;
   -moz-transition: 0.4s;
@@ -4334,7 +4334,6 @@ hr {
   padding-right: 30px;
   color: #ffffff;
   font-weight: 400;
-  text-transform: capitalize;
   border-radius: 0px;
   background: none;
 }
@@ -4477,13 +4476,13 @@ hr {
 /* line 131, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_footer.scss */
 .footer-social > a {
   color: #ffffff;
-  width: 50px;
-  height: 50px;
-  font-size: 17px;
-  line-height: 50px;
+  width: 60px; /* Increased width */
+  height: 60px; /* Increased height */
+  font-size: 20px; /* Increased font size */
+  line-height: 60px; /* Adjusted line height */
   display: inline-block;
   text-align: center;
-  margin-right: 8px;
+  margin-right: 20px;
   background: #7a7272;
 }
 
